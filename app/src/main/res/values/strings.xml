@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">counterFragmentFinal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Counter">Counter</string>
+    <string name="valinit">0</string>
+</resources>
